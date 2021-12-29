@@ -93,7 +93,7 @@ New to Kotlin? Visit [Getting started with Kotlin](getting-started.md).
 
 ### Tutorials
 
-* [Create your first cross-platform application for Android and iOS](multiplatform-mobile-create-first-app.md) shows how to create a mobile application that works on Android and iOS with the help of the [Kotlin Multiplatform Mobile plugin for Android Studio](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile).
+* [Create your first cross-platform mobile application](multiplatform-mobile-create-first-app.md) shows how to create a mobile application that works on Android and iOS with the help of the [Kotlin Multiplatform Mobile plugin for Android Studio](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform-mobile).
 Create, run, and test your first multiplatform mobile application.
 
 * [Creating a multiplatform Kotlin library](multiplatform-library.md) teaches how to create a multiplatform 
