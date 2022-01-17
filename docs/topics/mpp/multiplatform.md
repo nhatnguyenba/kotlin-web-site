@@ -66,11 +66,11 @@ actual fun randomUUID(): String = NSUUID().UUIDString()
 
 ### Android — iOS
 
-Sharing code between mobile platforms is one of the major Kotlin Multiplatform use cases. With Kotlin Multiplatform Mobile (KMM), 
+Sharing code between mobile platforms is one of the major Kotlin Multiplatform use cases. With Kotlin Multiplatform Mobile, 
 you can build multiplatform mobile applications sharing code, such as business logic, connectivity, 
 and more, between Android and iOS.
 
-See [KMM features, case studies and examples](https://kotlinlang.org/lp/mobile/)
+See features, case studies, and examples on the [landing page](https://kotlinlang.org/lp/mobile/).
 
 ### Client — Server
 
@@ -108,6 +108,6 @@ Android and iOS). It also shows how to write tests which will be executed on all
   
 ## Sample projects
 
-- [Kotlin Multiplatform Mobile (KMM) samples](multiplatform-mobile-samples.md)
+- [Kotlin Multiplatform Mobile samples](multiplatform-mobile-samples.md)
 - [KotlinConf app](https://github.com/JetBrains/kotlinconf-app) 
 - [KotlinConf Spinner app](https://github.com/jetbrains/kotlinconf-spinner)
