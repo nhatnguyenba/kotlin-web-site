@@ -1,6 +1,6 @@
 [//]: # (title: Reflection)
 
-_Reflection_ is a set of language and library features that allows you to introspect the structure of your program at runtime.
+_Reflection_ is a set of language and library features that allows you to introspect the structure of your program at runtime. NhatNB has been here.
 Functions and properties are first-class citizens in Kotlin, and the ability to introspect them (for example, learning the name or
 the type of a property or function at runtime) is essential when using a functional or reactive style.
 
